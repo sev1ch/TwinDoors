@@ -20,3 +20,6 @@ Automatically opens double doors placed handle-to-handle.
 ## License
 MIT
 
+> [!WARNING]
+> Downloading the mod from any other website or third-party source may put you at risk of malware.<br/>
+> I`m **not responsible** for any issues caused by downloads from unofficial sources.

@@ -18,18 +18,8 @@
     "entrypoints": {
         "main": [
             "com.sevich.twindoors.TwinDoors"
-        ],
-        "client": [
-            "com.sevich.twindoors.TwinDoorsClient"
         ]
     },
-    "mixins": [
-        "twindoors.mixins.json",
-        {
-            "config": "twindoors.client.mixins.json",
-            "environment": "client"
-        }
-    ],
     "depends": {
         "fabricloader": ">=0.18.2",
         "minecraft": "~1.21.10",

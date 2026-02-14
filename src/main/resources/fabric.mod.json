@@ -1,34 +1,39 @@
 {
-	"schemaVersion": 1,
-	"id": "twindoors",
-	"version": "${version}",
-	"name": "TwinDoors",
-	"description": "TwinDoors makes double doors behave like real double doors.\nWhen two wooden or copper doors are placed side by side with their handles facing each other, opening one will automatically open the other.\nWorks with all hand-operated wooden and copper doors.\nNo redstone required. No configuration needed. Just clean, intuitive behavior.",
-	"authors": [
-		"sevich"
-	],
-	"license": "MIT",
-	"icon": "assets/twindoors/icon.png",
-	"environment": "*",
-	"entrypoints": {
-		"main": [
-			"com.sevich.twindoors.TwinDoors"
-		],
-		"client": [
-			"com.sevich.twindoors.TwinDoorsClient"
-		]
-	},
-	"mixins": [
-		"twindoors.mixins.json",
-		{
-			"config": "twindoors.client.mixins.json",
-			"environment": "client"
-		}
-	],
-	"depends": {
-		"fabricloader": ">=0.18.2",
-		"minecraft": "~1.21.10",
-		"java": ">=21",
-		"fabric-api": "*"
-	}
+    "schemaVersion": 1,
+    "id": "twindoors",
+    "version": "${version}",
+    "name": "TwinDoors",
+    "description": "TwinDoors makes double doors behave like real double doors.\nWhen two wooden or copper doors are placed side by side with their handles facing each other, opening one will automatically open the other.\nWorks with all hand-operated wooden and copper doors.\nNo redstone required. No configuration needed. Just clean, intuitive behavior.",
+    "authors": [
+        "sevich"
+    ],
+    "license": "MIT",
+    "icon": "assets/twindoors/icon.png",
+    "environment": "*",
+    "contact": {
+        "homepage": "https://github.com/sev1ch/TwinDoors",
+        "sources": "https://github.com/sev1ch/TwinDoors",
+        "issues": "https://github.com/sev1ch/TwinDoors/issues"
+    },
+    "entrypoints": {
+        "main": [
+            "com.sevich.twindoors.TwinDoors"
+        ],
+        "client": [
+            "com.sevich.twindoors.TwinDoorsClient"
+        ]
+    },
+    "mixins": [
+        "twindoors.mixins.json",
+        {
+            "config": "twindoors.client.mixins.json",
+            "environment": "client"
+        }
+    ],
+    "depends": {
+        "fabricloader": ">=0.18.2",
+        "minecraft": "~1.21.10",
+        "java": ">=21",
+        "fabric-api": "*"
+    }
 }

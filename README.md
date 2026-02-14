@@ -2,6 +2,10 @@
 
 Automatically opens double doors placed handle-to-handle.
 
+## Preview
+
+![TwinDoors Preview](images/preview.gif)
+
 ## Features
 - Works with all wooden doors
 - Works with copper doors

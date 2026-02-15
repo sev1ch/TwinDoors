@@ -10,7 +10,7 @@ Automatically opens double doors placed handle-to-handle.
 - Works with all wooden doors
 - Works with copper doors
 - Server-side required
-- Fabric 1.21.10
+- Fabric 1.21.1, 1.21.10
 
 ## Installation
 1. Install Fabric Loader

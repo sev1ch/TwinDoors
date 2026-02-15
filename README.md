@@ -17,9 +17,14 @@ Automatically opens double doors placed handle-to-handle.
 2. Install Fabric API
 3. Put the mod into mods folder
 
+### Download Links
+You can download Radial Hot Bar from the following platforms:
+- [Modrinth](https://modrinth.com/mod/twindoors)
+- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/twindoors)
+
 ## License
 MIT
 
 > [!WARNING]
-> Downloading the mod from any other website or third-party source may put you at risk of malware.<br/>
-> I`m **not responsible** for any issues caused by downloads from unofficial sources.
+> To avoid malware, do not download this mod from unofficial sources.<br/>
+> I`m **not responsible** for any damage or issues caused by files hosted on other websites.

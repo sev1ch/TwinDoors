@@ -4,9 +4,7 @@
     "version": "${version}",
     "name": "TwinDoors",
     "description": "TwinDoors makes double doors behave like real double doors.\nWhen two wooden or copper doors are placed side by side with their handles facing each other, opening one will automatically open the other.\nWorks with all hand-operated wooden and copper doors.\nNo redstone required. No configuration needed. Just clean, intuitive behavior.",
-    "authors": [
-        "sevich"
-    ],
+    "authors": ["sevich"],
     "license": "MIT",
     "icon": "assets/twindoors/icon.png",
     "environment": "*",
@@ -16,13 +14,11 @@
         "issues": "https://github.com/sev1ch/TwinDoors/issues"
     },
     "entrypoints": {
-        "main": [
-            "com.sevich.twindoors.TwinDoors"
-        ]
+        "main": ["com.sevich.twindoors.TwinDoors"]
     },
     "depends": {
-        "fabricloader": ">=0.18.2",
-        "minecraft": "~1.21.10",
+        "fabricloader": ">=0.17.0",
+        "minecraft": "~1.21",
         "java": ">=21",
         "fabric-api": "*"
     }

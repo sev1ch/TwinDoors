@@ -10,8 +10,15 @@ Automatically opens double doors placed handle-to-handle.
 - Works with all wooden doors
 - Works with copper doors
 - Server-side required
-- TwinDoors 1.0.2-1 — for Minecraft 1.21 & 1.21.1  
-- TwinDoors 1.0.2-2 — for Minecraft 1.21.2 through 1.21.11
+- Minecraft 1.21 — 1.21.11
+
+## Downloads
+
+- **Minecraft 1.21 — 1.21.1**
+  [Download here](https://github.com/sev1ch/TwinDoors/releases/tag/v1.0.2-1.21.1)
+
+- **Minecraft 1.21.2 — 1.21.11**
+  [Download here](https://github.com/sev1ch/TwinDoors/releases/tag/v1.0.2-1.21.10)
 
 
 ## Installation

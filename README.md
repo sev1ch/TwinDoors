@@ -27,7 +27,7 @@ Automatically opens double doors placed handle-to-handle.
 3. Put the mod into mods folder
 
 ### Download Links
-You can download Radial Hot Bar from the following platforms:
+You can download TwinDoors from the following platforms:
 - [Modrinth](https://modrinth.com/mod/twindoors)
 - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/twindoors)
 
